@@ -1,0 +1,11 @@
+table{
+    background-color: #ddd;
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    background-color: #efefef;
+    cursor: pointer;
+    font-size: 15px;
+    text-align: center;
+}
