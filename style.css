@@ -8,4 +8,15 @@ table{
     cursor: pointer;
     font-size: 15px;
     text-align: center;
+    transition: all 0.3s ease;
+}
+.btn.btn--first {
+    text-align: right;
+    box-sizing: border-box;
+    padding-right: 1rem;
+    background-color: #fff;
+    font-size: 25;
+}
+.btn:hover{
+    background-color: #fff;
 }
